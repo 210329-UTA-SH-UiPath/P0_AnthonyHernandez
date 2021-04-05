@@ -10,6 +10,14 @@ namespace pizzabox.Domain.Abstracts
    {
       public string Name { get; set; }
 
-      protected A_Store() { }
+      protected A_Store()
+      {
+
+      }
+
+      public override string ToString()
+      {
+         return $"{Name}";
+      }
    }
 }

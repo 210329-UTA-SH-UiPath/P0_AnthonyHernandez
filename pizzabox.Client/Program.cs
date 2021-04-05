@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using pizzabox.Domain.Abstracts;
 using pizzabox.Domain.Models;
 
-namespace pizzabox
+namespace pizzabox.Client.Singletons
 {
    class Program
    {
