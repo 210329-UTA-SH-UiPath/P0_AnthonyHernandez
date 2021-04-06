@@ -2,6 +2,7 @@ namespace pizzabox.Domain.Abstracts
 {
    public abstract class A_Pizza
    {
+
       public enum Toppings
       {
          cheese, tomato_sauce, pepporoni,

@@ -8,6 +8,11 @@ namespace pizzabox.Domain.Models
       {
          Name = "Chikagi Pizzeria";
       }
+
+      public override string ToString()
+      {
+         return $"{Name}";
+      }
    }
 
 }
