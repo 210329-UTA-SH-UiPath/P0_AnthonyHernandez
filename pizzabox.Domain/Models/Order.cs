@@ -1,16 +1,28 @@
-using pizzabox.Domain.Abstracts;
+using PizzaBox.Domain.Abstracts;
+using System.Xml.Serialization;
 
-namespace pizzabox.Domain.Models
+namespace PizzaBox.Domain.Models
 {
+
+   [XmlInclude(typeof(Customer))]
+   [XmlInclude(typeof(APizza))]
+   [XmlInclude(typeof(AStore))]
+   [XmlInclude(typeof(MeatPizza))]
+   [XmlInclude(typeof(VeganPizza))]
    public class Order
    {
-      public A_Store Store { get; set; }
+      public AStore Store { get; set; }
       public Customer Customer { get; set; }
-      public A_Pizza Pizza { get; set; }
-
-      public void Save()
+      public APizza Pizza { get; set; }
+      public Order(Customer customer, AStore store, APizza pizza)
       {
-
+         Customer = customer;
+         Store = store;
+         Pizza = pizza;
+      }
+      public override string ToString()
+      {
+         return $"{Store} {Customer} {Pizza}";
       }
    }
 }

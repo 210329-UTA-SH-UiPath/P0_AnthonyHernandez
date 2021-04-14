@@ -1,14 +1,12 @@
+using PizzaBox.Domain.Abstracts;
 
-using pizzabox.Domain.Abstracts;
-
-namespace pizzabox.Domain.Models
+namespace PizzaBox.Domain.Models
 {
-   public class NewYorkStore : A_Store
+   public class NewYorkStore : AStore
    {
       public NewYorkStore()
       {
-         Name = "New Yorkie Peezza";
+         Name = "NewYorkStore";
       }
    }
-
 }
