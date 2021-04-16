@@ -1,0 +1,5 @@
+C:\Users\Teito\revature\project_pizzabox\Pizza.UI\obj\Debug\net5.0\Pizza.UI.csprojAssemblyReference.cache
+C:\Users\Teito\revature\project_pizzabox\Pizza.UI\obj\Debug\net5.0\Pizza.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teito\revature\project_pizzabox\Pizza.UI\obj\Debug\net5.0\Pizza.UI.AssemblyInfoInputs.cache
+C:\Users\Teito\revature\project_pizzabox\Pizza.UI\obj\Debug\net5.0\Pizza.UI.AssemblyInfo.cs
+C:\Users\Teito\revature\project_pizzabox\Pizza.UI\obj\Debug\net5.0\Pizza.UI.csproj.CoreCompileInputs.cache

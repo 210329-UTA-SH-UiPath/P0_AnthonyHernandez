@@ -1,0 +1,12 @@
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.csprojAssemblyReference.cache
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.AssemblyInfoInputs.cache
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.AssemblyInfo.cs
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\bin\Debug\net5.0\Pizza.Logic.deps.json
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\bin\Debug\net5.0\Pizza.Logic.dll
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\bin\Debug\net5.0\ref\Pizza.Logic.dll
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\bin\Debug\net5.0\Pizza.Logic.pdb
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.dll
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\ref\Pizza.Logic.dll
+C:\Users\Teito\revature\project_pizzabox\Pizza.Logic\obj\Debug\net5.0\Pizza.Logic.pdb

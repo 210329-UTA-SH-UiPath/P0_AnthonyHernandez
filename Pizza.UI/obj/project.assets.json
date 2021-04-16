@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Pizza.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Pizza.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pizza.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Pizza.Logic/Pizza.Logic.csproj",
+      "msbuildProject": "../Pizza.Logic/Pizza.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Pizza.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Teito\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Teito\\revature\\project_pizzabox\\Pizza.UI\\Pizza.UI.csproj",
+      "projectName": "Pizza.UI",
+      "projectPath": "C:\\Users\\Teito\\revature\\project_pizzabox\\Pizza.UI\\Pizza.UI.csproj",
+      "packagesPath": "C:\\Users\\Teito\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Teito\\revature\\project_pizzabox\\Pizza.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Teito\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Teito\\revature\\project_pizzabox\\Pizza.Logic\\Pizza.Logic.csproj": {
+              "projectPath": "C:\\Users\\Teito\\revature\\project_pizzabox\\Pizza.Logic\\Pizza.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
